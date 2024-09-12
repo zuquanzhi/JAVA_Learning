@@ -2,8 +2,8 @@
 /**
  * 定义接口Income
  */
-public interface Income {
-
+interface Income {
 	// TODO
+	double getTax();
 
 }
